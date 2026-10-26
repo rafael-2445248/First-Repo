@@ -31,3 +31,4 @@ document.querySelectorAll('.project, .about-content, .contact-row').forEach((ele
 	element.classList.add('reveal');
 	revealObserver.observe(element);
 });
+
